@@ -6,7 +6,7 @@ build/
 !**/src/test/**/build/
 
 ### environment ###
-application.properties
+/src/main/resources/application.properties
 
 ### mapper ###
 /src/main/resources/mapper
